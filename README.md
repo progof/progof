@@ -2,7 +2,7 @@
 
 💻 Full-stack developer | Working with frontend and backend, passionate about application architecture.
 
-🚀 Developing AltLoc — a platform for gamified self-improvement. Currently rewriting it with Java Spring + Nuxt.
+🚀 Developing [AltLoc](https://altloc.com) — a platform for gamified self-improvement. Currently rewriting it with Java Spring + Nuxt.
 
 👨‍🎓 Currently studying for a computer science in [WSZIB](https://www.wszib.edu.pl/) Kraków 
 
