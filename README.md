@@ -8,5 +8,5 @@
 
 📚 I maintain a [university projects repository](https://github.com/progof/university) featuring assignments, experiments, and mini-projects in various technologies like Java, C++, SQL, and more.
 
-📈 Here's how I spend my time coding:
+
 <img src="https://wakatime.com/share/@Progof/ae719bd9-855e-4008-b3e8-b3a0653d0e1c.svg" height="300px" />
